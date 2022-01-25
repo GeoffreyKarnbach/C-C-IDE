@@ -81,5 +81,5 @@ photo1=PhotoImage(file="C++.png")
 loadingScreen()
 fen.after(5000,ecranIDE)
 fen.mainloop()
-
+#
 
